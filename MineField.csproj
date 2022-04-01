@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MineField.Entities\MineField.Common.csproj" />
     <ProjectReference Include="..\MineField.Logic\MineField.Logic.csproj" />
   </ItemGroup>
 
