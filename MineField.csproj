@@ -10,9 +10,4 @@
     <PackageReference Include="Autofac.Configuration" Version="6.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\MineField.Entities\MineField.Common.csproj" />
-    <ProjectReference Include="..\MineField.Logic\MineField.Logic.csproj" />
-  </ItemGroup>
-
 </Project>
