@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "MineField": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GridSize": "8",
+        "NumberOfMines": "3",
+        "NumberOfLives": "3",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
